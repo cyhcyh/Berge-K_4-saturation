@@ -55,6 +55,14 @@ The Windows and Linux versions are both provided.
 
 ---
 
+## 💡 Further suggestion
+
+The hypergraphs produced by the generator are first converted to their incidence graphs and then stored in some `.plk` files. This actually takes up a lot of disk space. For better performance, you can convert a hypergraph to its incidence graph once when it is generated and use the `sparse6` format to store the incidence graphs. This will significantly reduce the space required and allow you to compute larger hypergraphs. Moreover, you can use the Sliding Window Technique to deal with the chunks. 
+
+The suggestions above might could help you to compute larger hypergraphs in some other saturation problems. But in this problem, it remains not easy to close the gap, we need some new mathematical idea to solve this.
+
+---
+
 ## 📚 Citation
 
 If you use this code in your research, please cite our paper:

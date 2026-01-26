@@ -68,8 +68,8 @@ The suggestions above might could help you to compute larger hypergraphs in some
 If you use this code in your research, please cite our paper:
 
 ```bibtex
-@article{CHX2026,
-  title={Title},
+@article{CHX2026Saturation,
+  title={Saturation numbers for $3$-uniform Berge-$K_4$},
   author={Yihan, Chen and Jialin, He and Tianying, Xie},
   journal={arXiv preprint arXiv:},
   year={2026},

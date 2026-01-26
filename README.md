@@ -68,11 +68,11 @@ The suggestions above might could help you to compute larger hypergraphs in some
 If you use this code in your research, please cite our paper:
 
 ```bibtex
-@article{TBA,
+@article{CHX2026,
   title={Title},
-  author={Authors},
-  journal={Journal Name},
-  year={2025+},
+  author={Yihan, Chen and Jialin, He and Tianying, Xie},
+  journal={arXiv preprint arXiv:},
+  year={2026},
 }
 ```
 

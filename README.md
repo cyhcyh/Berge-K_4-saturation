@@ -20,7 +20,7 @@ The program is designed to search all uniform Berge K_4 saturated hypergraphs wi
    ```bash
    pip install -r requirements.txt
    ```
-   > ✅ **Python 3.12 or higher could be better**.
+   > ✅ **Python 3.12 or higher is required**.
 
 ---
 

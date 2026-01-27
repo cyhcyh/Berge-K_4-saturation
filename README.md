@@ -71,7 +71,7 @@ If you use this code in your research, please cite our paper:
 @article{CHX2026Saturation,
   title={Saturation numbers for $3$-uniform Berge-$K_4$},
   author={Yihan, Chen and Jialin, He and Tianying, Xie},
-  journal={arXiv preprint arXiv:2601.18455},
+  journal={arXiv:2601.18455},
   year={2026},
 }
 ```

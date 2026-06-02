@@ -3,6 +3,9 @@
 This repository provides the implementation of the algorithm described in the paper:  
 **Saturation numbers for $3$-uniform Berge-$K_4$** ([Link](https://arxiv.org/abs/2601.18455)).
 
+- The detailed description of the algorithms is in `Algorithm.pdf`;
+- The results of small cases is listed in `Small_cases.pdf`.
+
 The program is designed to search all uniform Berge K_4 saturated hypergraphs with given number of vertices and hyperedges in parallel.
 **It has been optimized and tested to run on a personal computer, but it is recommended to run it on a dedicated server for better performance (which will be faster).**
 
